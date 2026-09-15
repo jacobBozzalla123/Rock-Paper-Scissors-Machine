@@ -1,1 +1,1 @@
-# Random-Stuff
+# Rock Paper Scissors Machine
